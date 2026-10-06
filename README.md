@@ -1,8 +1,6 @@
-
+# Adhishrihaan Foundation – Homepage Replica
 
 This project recreates the homepage layout and visual style of the reference website using HTML, CSS, JavaScript and Bootstrap 5.
-
-
 
 ## Technologies Used
 
@@ -50,4 +48,18 @@ adhishrihaan-bootstrap-replica/
 │   ├── hero-2.jpg
 │   ├── hero-3.jpg
 │   ├── hero-4.jpg
+│   ├── about.jpg
+│   ├── pillar-capacity.jpg
+│   ├── pillar-visibility.jpg
+│   ├── pillar-networking.jpg
+│   ├── focus-woman-child.jpg
+│   ├── focus-education.jpg
+│   ├── focus-animal.jpg
+│   ├── focus-healthcare.jpg
+│   ├── focus-elderly.jpg
+│   ├── focus-skill.jpg
+│   ├── focus-environment.jpg
+│   ├── grant.jpg
 │   └── ...
+│
+└── README.md
