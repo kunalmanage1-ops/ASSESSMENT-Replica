@@ -34,7 +34,7 @@ Custom CSS is used alongside Bootstrap to match the visual appearance of the ref
 ```text
 adhishrihaan-bootstrap-replica/
 │
-├── homepage.html
+├── index.html
 │
 ├── css/
 │   └── style.css
